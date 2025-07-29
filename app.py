@@ -41,5 +41,6 @@ if st.button('Show Recommendation'):
     recommended_movies, recommended_movies_posters = recommend(selected_movie_name)
     cols = st.columns(5)
     for i in range (5):
-        st.text(recommended_movies[i])
-        st.image(recommended_movies_posters[i])
+        with cols[i]:
+          st.text(recommended_movies[i])
+          st.image(recommended_movies_posters[i])
