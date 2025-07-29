@@ -9,7 +9,7 @@ movies_list = pickle.load(open('movie_list.pkl','rb'))
 similarity = pickle.load(open('similarity_matrics.pkl','rb'))
 
 #Dropdown menu
-st.title('Recommended Movie')
+st.title('Movie Recommender with Content-Based Filtering and NLP')
 selected_movie_name = st.selectbox(
     'Select Movies',
     movies_list['title'].values
@@ -42,5 +42,6 @@ if st.button('Show Recommendation'):
     cols = st.columns(5)
     for i in range (5):
         with cols[i]:
+          st.image(recommended_movies_posters[i], use_column_width=True)
           st.text(recommended_movies[i])
-          st.image(recommended_movies_posters[i])
+          
