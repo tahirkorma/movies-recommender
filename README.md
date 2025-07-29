@@ -53,7 +53,7 @@ Built using Python and Streamlit, the app is interactive and easy to use — jus
    -   [Click here](https://moviesrecommenderbytahirkorma.streamlit.app)
 
 ##  📸 Screenshot
-       ![Screenshot](https://raw.githubusercontent.com/tahirkorma/movies_recommender/main/screenshot.jpg)
+   ![screenshot](https://github.com/user-attachments/assets/f5cc0cfc-3a7d-49f4-be2b-3555c7cd94b4)
 
 ##  🙌 Credits
    -   [TMDb](https://www.themoviedb.org/) for metadata
