@@ -40,3 +40,18 @@ Built using Python and Streamlit, the app is interactive and easy to use — jus
    ```bash
    git clone https://github.com/your-username/movie-recommender.git
    cd movie-recommender
+
+2. **Install the required packages**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the app**
+   ```bash
+   streamlit run app.py
+
+## 🌐 Live Demo   
+   -  [Click here](https://moviesrecommenderbytahirkorma.streamlit.app)
+
+##   📸 Screenshots
+##   🙌 Credits
+   -    [TMDb](https://www.themoviedb.org/) for metadata
