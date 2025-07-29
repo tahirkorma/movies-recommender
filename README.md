@@ -49,10 +49,11 @@ Built using Python and Streamlit, the app is interactive and easy to use — jus
    ```bash
    streamlit run app.py
 
-## 🌐 Live Demo   
-   -  [Click here](https://moviesrecommenderbytahirkorma.streamlit.app)
+##  🌐 Live Demo   
+   -   [Click here](https://moviesrecommenderbytahirkorma.streamlit.app)
 
-##   📸 Screenshots
-        ![](images/screenshot.jpg)
-##   🙌 Credits
-   -    [TMDb](https://www.themoviedb.org/) for metadata
+##  📸 Screenshot
+       !(screenshot.jpg)
+
+##  🙌 Credits
+   -   [TMDb](https://www.themoviedb.org/) for metadata
