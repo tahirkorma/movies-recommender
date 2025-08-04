@@ -38,7 +38,7 @@ Built using Python and Streamlit, the app is interactive and easy to use — jus
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
+   git clone https://github.com/tahirkorma/movie-recommender.git
    cd movie-recommender
 
 2. **Install the required packages**
